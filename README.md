@@ -1,5 +1,7 @@
 # Tile Launcher
 
+[![CI](https://github.com/prakash6018/tile-launcher/actions/workflows/ci.yml/badge.svg)](https://github.com/prakash6018/tile-launcher/actions/workflows/ci.yml)
+
 An Android home screen inspired by the Windows Phone 8.1 Start screen. See [docs/DESIGN_PLAN.md](docs/DESIGN_PLAN.md) for the design.
 
 ## Features
