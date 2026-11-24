@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tile Launcher</string>
+    <string name="glance_widget_label">Tile glance</string>
+    <string name="glance_widget_description">Clock, weather, next meeting and unread counts as live tiles. Fits the Flip cover screen.</string>
+</resources>
